@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Deep Focus",
+    "hours": 0,
+    "minutes": 25,
+    "seconds": 0,
+    "builtin": true
+  },
+  {
+    "name": "Quick Break",
+    "hours": 0,
+    "minutes": 5,
+    "seconds": 0,
+    "builtin": true
+  },
+  {
+    "name": "Power Nap",
+    "hours": 0,
+    "minutes": 20,
+    "seconds": 0,
+    "builtin": true
+  },
+  {
+    "name": "Power Hour",
+    "hours": 1,
+    "minutes": 0,
+    "seconds": 0,
+    "builtin": true
+  },
+  {
+    "name": "Quick Standup",
+    "hours": 0,
+    "minutes": 15,
+    "seconds": 0,
+    "builtin": true
+  },
+  {
+    "name": "Meditation",
+    "hours": 0,
+    "minutes": 10,
+    "seconds": 0,
+    "builtin": true
+  },
+  {
+    "name": "Tea Brewing",
+    "hours": 0,
+    "minutes": 3,
+    "seconds": 0,
+    "builtin": true
+  },
+  {
+    "name": "Boiled Eggs",
+    "hours": 0,
+    "minutes": 8,
+    "seconds": 0,
+    "builtin": true
+  },
+  {
+    "name": "HIIT Interval",
+    "hours": 0,
+    "minutes": 0,
+    "seconds": 45,
+    "builtin": true
+  },
+  {
+    "name": "lol",
+    "hours": 0,
+    "minutes": 0,
+    "seconds": 15,
+    "builtin": false
+  }
+]
